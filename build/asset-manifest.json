@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/goals-project/static/css/main.cf88a6cf.css",
+    "main.js": "/github.io/goals-project/static/js/main.d161cef4.js",
+    "index.html": "/github.io/goals-project/index.html",
+    "main.cf88a6cf.css.map": "/github.io/goals-project/static/css/main.cf88a6cf.css.map",
+    "main.d161cef4.js.map": "/github.io/goals-project/static/js/main.d161cef4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf88a6cf.css",
+    "static/js/main.d161cef4.js"
+  ]
+}
